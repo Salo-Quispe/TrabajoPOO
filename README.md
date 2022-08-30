@@ -1,4 +1,7 @@
 # TrabajoPOO
-Correa Joselyn - @Gautzelin
-Galarza Kevin - @KevinGal2002
-Salome Quispe - @Salo-Quispe
+
+-Correa Joselyn - @Gautzelin
+
+-Galarza Kevin - @KevinGal2002
+
+-Salome Quispe - @Salo-Quispe
